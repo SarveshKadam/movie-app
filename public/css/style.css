@@ -1,0 +1,28 @@
+#searchh1{
+    margin-top: 155px;
+    margin-bottom: 15px;
+}
+
+body{
+    background-color: #eeeeee;
+}
+
+.card-title{
+    font-family: Lato;
+}
+
+.card{
+    margin-left: 12.5%;
+}
+
+.card-img{
+    height: 25rem;
+}
+
+#searchheading{
+    margin-left: 12.5%;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    font-family: Montserrat;
+    font-weight: 700;
+}
